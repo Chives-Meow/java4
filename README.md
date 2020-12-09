@@ -17,8 +17,7 @@
 用try-catch方法处理程序异常
 ![image](https://github.com/Chives-Meow/java4/blob/main/8d574020e87f0dba65b141e8b8f6574.png)
 字节的输入输出流将诗词读取、写入
-
-
+![image](https://github.com/Chives-Meow/java4/blob/main/a737f110f79b171a356492168f1dae1.png)
 …………………………………………………………………………………………
 ##实验收获##
 …………………………………………………………………………………………
