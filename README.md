@@ -15,7 +15,7 @@
 然后对“长恨歌”作业进行加标点，用for循环将诗词每7个字加一个标点。
  ![image](https://github.com/Chives-Meow/java4/blob/main/45351a68a0f4075ca2ed9a42230b665.png)
 用try-catch方法处理程序异常
-
+![image](https://github.com/Chives-Meow/java4/blob/main/8d574020e87f0dba65b141e8b8f6574.png)
 字节的输入输出流将诗词读取、写入
 
 
